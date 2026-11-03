@@ -1,1 +1,0 @@
-window.EO_P=window.EO_P||{};(EO_P.C02E=EO_P.C02E||{})["5230000"]=[{"id":"ci399317","n":"2026 예천활축제 - 활로 잇는 예천, 미래를 쏘다","k":"행사/축제","pl":"한천체육공원 일원","ps":"2026-10-30","pe":"2026-11-01","tel":"0546506037","url":"https://www.ywaf.kr/","img":"http://www.culture.go.kr/upload/ucms/oneCltInfo/2026/202609/d615f9c657c3410881be2b101ba1914a.jpg","s":"ci"}];
