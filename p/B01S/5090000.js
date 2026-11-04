@@ -1,0 +1,1 @@
+window.EO_P=window.EO_P||{};(EO_P.B01S=EO_P.B01S||{})["5090000"]=[{"id":"EJ31P0833117","n":"영주실내수영장","ra":"경상북도 영주시 대학로153번길 10","pl":"영주실내수영장","url":"https://www.eshare.go.kr/UserPortal/Upv/UprResrcFacl/index.do?rsrc_no=EJ31P0833117","c":[36.809998,128.607905]}];

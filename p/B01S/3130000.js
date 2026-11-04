@@ -1,0 +1,1 @@
+window.EO_P=window.EO_P||{};(EO_P.B01S=EO_P.B01S||{})["3130000"]=[{"id":"HC30Q1447860","n":"2026 항공종사자 항공정비사 정비실습장","ra":"서울 마포구 구룡길 15 (상암동)","pl":"항공종사자 자격시험장 3층 학과대기실","url":"https://www.eshare.go.kr/UserPortal/Upv/UprResrcFacl/index.do?rsrc_no=HC30Q1447860","c":[37.586485,126.884088]}];

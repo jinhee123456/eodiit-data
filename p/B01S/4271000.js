@@ -1,0 +1,1 @@
+window.EO_P=window.EO_P||{};(EO_P.B01S=EO_P.B01S||{})["4271000"]=[{"id":"DJ31M1829338","n":"평생학습관(월담작은도서관)","ra":"강원 영월군 영월읍 중리1길 10","pl":"3충 대강연장","url":"https://www.eshare.go.kr/UserPortal/Upv/UprResrcFacl/index.do?rsrc_no=DJ31M1829338","c":[37.178862,128.478156]}];

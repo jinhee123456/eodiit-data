@@ -1,0 +1,1 @@
+window.EO_P=window.EO_P||{};(EO_P.B01S=EO_P.B01S||{})["3060000"]=[{"id":"EH18C638742","n":"중랑구디지털상담소","ra":"서울특별시 중랑구 봉화산로 190(신내동)","url":"https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S230816103447664444","c":[37.606116,127.094232]}];

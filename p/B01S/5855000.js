@@ -1,0 +1,1 @@
+window.EO_P=window.EO_P||{};(EO_P.B01S=EO_P.B01S||{})["5855000"]=[{"id":"CE31P1935351","n":"도시재생 교육프로그램","ra":"전남광주통합특별시 화순군 화순읍 진각로 118-2","pl":"2층","url":"https://www.eshare.go.kr/UserPortal/Upv/UprResrcFacl/index.do?rsrc_no=CE31P1935351","c":[35.061616,126.986341]}];

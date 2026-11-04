@@ -1,0 +1,1 @@
+window.EO_P=window.EO_P||{};(EO_P.B01S=EO_P.B01S||{})["3970000"]=[{"id":"FC28D702890","n":"응급처치 교육","ra":"경기 과천시 통영로 12","pl":"과천소방서 3층 대강당","url":"https://share.gg.go.kr/facilityListO/view?instiCode=6412254&facilityId=F0005&eshare=1","c":[37.428558,126.990501]}];

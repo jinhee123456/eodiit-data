@@ -1,0 +1,1 @@
+window.EO_P=window.EO_P||{};(EO_P.B01S=EO_P.B01S||{})["4140000"]=[{"id":"FC28D702889","n":"소방안전 출장교육(단체) 신청","ra":"경기 연천군 전곡읍 평화로 892","pl":"해당 교육은 수요처(신청기관)로 출장을 나가는 찾아가는 소방안전교육입니다","url":"https://share.gg.go.kr/facilityListO/view?instiCode=6412271&facilityId=F0002&eshare=1","c":[38.048241,127.068298]}];

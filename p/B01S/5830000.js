@@ -1,0 +1,1 @@
+window.EO_P=window.EO_P||{};(EO_P.B01S=EO_P.B01S||{})["5830000"]=[{"id":"CE17K0555875","n":"도시재생대학","ra":"전남광주통합특별시 담양군 담양읍 추성로 1371","pl":"담양군청","url":"https://www.eshare.go.kr/UserPortal/Upv/UprResrcFacl/index.do?rsrc_no=CE17K0555875","c":[35.32065,126.988573]}];

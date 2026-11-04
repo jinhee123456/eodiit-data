@@ -1,0 +1,1 @@
+window.EO_P=window.EO_P||{};(EO_P.B01S=EO_P.B01S||{})["5240000"]=[{"id":"DE18O5520640","n":"봉화군 군민정보화교육","ra":"경북 봉화군 봉화읍 봉화로 1203","pl":"여성문화회관 1층","url":"https://www.eshare.go.kr/UserPortal/Upv/UprResrcFacl/index.do?rsrc_no=DE18O5520640","c":[36.890719,128.741854]}];

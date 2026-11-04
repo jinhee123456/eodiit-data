@@ -1,0 +1,1 @@
+window.EO_P=window.EO_P||{};(EO_P.B01S=EO_P.B01S||{})["5250000"]=[{"id":"BB17Q5951679","n":"울진남부도서관 종합자료실(일반열람실)","ra":"경북 울진군 후포면 후포삼율로 194-13","pl":"울진남부도서관","url":"https://www.eshare.go.kr/UserPortal/Upv/UprResrcFacl/index.do?rsrc_no=BB17Q5951679","c":[36.688133,129.443828]}];

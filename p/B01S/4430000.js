@@ -1,0 +1,1 @@
+window.EO_P=window.EO_P||{};(EO_P.B01S=EO_P.B01S||{})["4430000"]=[{"id":"DJ31S0023923","n":"전통체험프로그램","ra":"충북 옥천군 옥천읍 향수길 100","pl":"전통문화체험관","url":"https://www.eshare.go.kr/UserPortal/Upv/UprResrcFacl/index.do?rsrc_no=DJ31S0023923","c":[36.31632,127.585144]}];

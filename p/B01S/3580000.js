@@ -1,0 +1,1 @@
+window.EO_P=window.EO_P||{};(EO_P.B01S=EO_P.B01S||{})["3580000"]=[{"id":"BJ20J4833003","n":"연평평화안보수련원","ra":"인천광역시 옹진군 연평면 연평중앙로24번길 25","pl":"연평평화안보수련원","url":"https://www.eshare.go.kr/UserPortal/Upv/UprResrcFacl/index.do?rsrc_no=BJ20J4833003","c":[37.665482,125.704088]}];
