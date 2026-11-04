@@ -1,1 +1,1 @@
-window.EO_P=window.EO_P||{};(EO_P.L05=EO_P.L05||{})["4341000"]=[{"id":"HG29O0305990","n":"구명조끼","ra":"강원특별자치도 고성군 거진읍 거진항길 26","pl":"거진파출소","url":"https://www.eshare.go.kr/UserPortal/Upv/UprResrcFacl/index.do?rsrc_no=HG29O0305990","c":[38.446685,128.456251]}];
+window.EO_P=window.EO_P||{};(EO_P.L05=EO_P.L05||{})["4341000"]=[{"id":"HG29O0305990","n":"구명조끼","ra":"강원특별자치도 고성군 거진읍 거진항길 26","pl":"거진파출소","url":"https://www.eshare.go.kr/UserPortal/Upv/UprResrcFacl/index.do?rsrc_no=HG29O0305990","k":"safe","c":[38.446685,128.456251]}];

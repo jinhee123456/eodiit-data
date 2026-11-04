@@ -1,1 +1,1 @@
-window.EO_P=window.EO_P||{};(EO_P.L05=EO_P.L05||{})["5120000"]=[{"id":"GD18O0808278","n":"자동심장충격기","ra":"경북 문경시 중앙3길 11 (점촌동)","pl":"국민건강보험공단 문경예천지사 1층","url":"https://www.eshare.go.kr/UserPortal/Upv/UprResrcFacl/index.do?rsrc_no=GD18O0808278","c":[36.593559,128.200398]}];
+window.EO_P=window.EO_P||{};(EO_P.L05=EO_P.L05||{})["5120000"]=[{"id":"GD18O0808278","n":"자동심장충격기","ra":"경북 문경시 중앙3길 11 (점촌동)","pl":"국민건강보험공단 문경예천지사 1층","url":"https://www.eshare.go.kr/UserPortal/Upv/UprResrcFacl/index.do?rsrc_no=GD18O0808278","k":"safe","c":[36.593559,128.200398]}];
