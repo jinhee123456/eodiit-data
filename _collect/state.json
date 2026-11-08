@@ -1,7 +1,7 @@
 {
  "file_15106385": {
   "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "checked": "2026-11-09",
   "columns": [
    "순번",
    "상호명",
@@ -26,7 +26,7 @@
  },
  "file_3045247": {
   "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "checked": "2026-11-09",
   "columns": [
    "시도",
    "시군",
@@ -56,8 +56,8 @@
   "total": null
  },
  "ld_civil_defense_shelter_info": {
-  "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "applied": "2026-11-09",
+  "checked": "2026-11-09",
   "columns": [
    "개방자치단체코드",
    "관리번호",
@@ -87,21 +87,21 @@
    "최종수정시점"
   ],
   "encoding": "cp949",
-  "fetched": "2026-11-03",
+  "fetched": "2026-11-09",
   "last_stop": null,
   "last_stop_why": null,
-  "modified": "2026-10-31",
+  "modified": "2026-11-07",
   "nulls": {
    "도로명전체주소|소재지전체주소": 0.0,
    "시설명": 0.0
   },
-  "rows": 18845,
-  "size": 6446091,
+  "rows": 18846,
+  "size": 6446562,
   "total": null
  },
  "ld_fitness_centers": {
-  "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "applied": "2026-11-09",
+  "checked": "2026-11-09",
   "columns": [
    "개방자치단체코드",
    "관리번호",
@@ -139,27 +139,27 @@
    "최종수정시점"
   ],
   "encoding": "cp949",
-  "fetched": "2026-11-03",
+  "fetched": "2026-11-09",
   "last_stop": null,
   "last_stop_why": null,
-  "modified": "2026-11-02",
+  "modified": "2026-11-07",
   "nulls": {
    "도로명주소|지번주소": 0.0,
    "사업장명": 0.0
   },
-  "rows": 28074,
-  "size": 8632665,
+  "rows": 28095,
+  "size": 8638654,
   "total": null
  },
  "ld_household_waste_info": {
-  "last_stop": "2026-11-03",
+  "last_stop": "2026-11-09",
   "last_stop_why": [
    "빌드 자동화 없음"
   ]
  },
  "ld_performance_halls": {
-  "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "applied": "2026-11-09",
+  "checked": "2026-11-09",
   "columns": [
    "개방자치단체코드",
    "관리번호",
@@ -196,21 +196,21 @@
    "최종수정시점"
   ],
   "encoding": "cp949",
-  "fetched": "2026-11-03",
+  "fetched": "2026-11-09",
   "last_stop": null,
   "last_stop_why": null,
-  "modified": "2026-10-31",
+  "modified": "2026-11-07",
   "nulls": {
    "도로명주소|지번주소": 0.0,
    "사업장명": 0.0
   },
   "rows": 2843,
-  "size": 838802,
+  "size": 838768,
   "total": null
  },
  "ld_pharmacies": {
-  "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "applied": "2026-11-09",
+  "checked": "2026-11-09",
   "columns": [
    "개방자치단체코드",
    "관리번호",
@@ -238,27 +238,27 @@
    "최종수정시점"
   ],
   "encoding": "cp949",
-  "fetched": "2026-11-03",
+  "fetched": "2026-11-09",
   "last_stop": null,
   "last_stop_why": null,
-  "modified": "2026-10-31",
+  "modified": "2026-11-07",
   "nulls": {
    "도로명주소|지번주소": 0.0,
    "사업장명": 0.0
   },
-  "rows": 70764,
-  "size": 18772822,
+  "rows": 70784,
+  "size": 18777987,
   "total": null
  },
  "ld_public_restroom_info": {
-  "last_stop": "2026-11-03",
+  "last_stop": "2026-11-09",
   "last_stop_why": [
    "빌드 자동화 없음"
   ]
  },
  "ld_swimming_pools": {
-  "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "applied": "2026-11-09",
+  "checked": "2026-11-09",
   "columns": [
    "개방자치단체코드",
    "관리번호",
@@ -292,21 +292,21 @@
    "최종수정시점"
   ],
   "encoding": "cp949",
-  "fetched": "2026-11-03",
+  "fetched": "2026-11-09",
   "last_stop": null,
   "last_stop_why": null,
-  "modified": "2026-10-29",
+  "modified": "2026-11-07",
   "nulls": {
    "도로명주소|지번주소": 0.0,
    "사업장명": 0.0
   },
-  "rows": 1904,
-  "size": 557995,
+  "rows": 1905,
+  "size": 558219,
   "total": null
  },
  "std_15012890": {
   "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "checked": "2026-11-09",
   "columns": [
    "MANAGE_NO",
    "PARK_NM",
@@ -343,7 +343,7 @@
  },
  "std_15012894": {
   "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "checked": "2026-11-09",
   "columns": [
    "MRKT_NM",
    "MRKT_TYPE",
@@ -379,7 +379,7 @@
  },
  "std_15012896": {
   "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "checked": "2026-11-09",
   "columns": [
    "PRKPLCE_NO",
    "PRKPLCE_NM",
@@ -431,7 +431,7 @@
  },
  "std_15013104": {
   "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "checked": "2026-11-09",
   "columns": [
    "FSTVL_NM",
    "OPAR",
@@ -467,7 +467,7 @@
  },
  "std_15013106": {
   "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "checked": "2026-11-09",
   "columns": [
    "EVENT_NM",
    "OPAR",
@@ -512,7 +512,7 @@
  },
  "std_15013109": {
   "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "checked": "2026-11-09",
   "columns": [
    "LBRRY_NM",
    "CTPRVN_NM",
@@ -558,7 +558,7 @@
  },
  "std_15013110": {
   "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "checked": "2026-11-09",
   "columns": [
    "LCTRE_NM",
    "INSTRCTR_NM",
@@ -603,7 +603,7 @@
  },
  "std_15013116": {
   "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "checked": "2026-11-09",
   "columns": [
    "INSTL_NM",
    "INSTL_LC_DESC",
@@ -638,7 +638,7 @@
  },
  "std_15013117": {
   "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "checked": "2026-11-09",
   "columns": [
    "OPEN_FCLTY_NM",
    "OPEN_LC_NM",
@@ -685,7 +685,7 @@
  },
  "std_15013199": {
   "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "checked": "2026-11-09",
   "columns": [
    "SHLTR_NM",
    "LEGALDONG_NM",
@@ -724,8 +724,8 @@
   "total": 42226
  },
  "std_15017319": {
-  "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "applied": "2026-11-09",
+  "checked": "2026-11-09",
   "columns": [
    "BCYCL_LEND_NM",
    "BCYCL_LEND_SE",
@@ -750,7 +750,7 @@
    "INSTT_NM"
   ],
   "encoding": "json",
-  "fetched": "2026-11-03",
+  "fetched": "2026-11-09",
   "last_stop": null,
   "last_stop_why": null,
   "modified": "2026-06-22",
@@ -758,13 +758,13 @@
    "BCYCL_LEND_NM": 0.0,
    "RDNMADR|LNMADR": 0.0
   },
-  "rows": 1523,
+  "rows": 1521,
   "size": null,
-  "total": 1523
+  "total": 1521
  },
  "std_15017323": {
   "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "checked": "2026-11-09",
   "columns": [
    "FCLTY_NM",
    "FCLTY_TYPE",
@@ -807,14 +807,14 @@
   "total": 1070
  },
  "std_15021108": {
-  "last_stop": "2026-11-03",
+  "last_stop": "2026-11-09",
   "last_stop_why": [
    "빌드 자동화 없음"
   ]
  },
  "std_15021137": {
   "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "checked": "2026-11-09",
   "columns": [
    "HP_CNTER_NM",
    "HP_CNTER_SE",
@@ -856,7 +856,7 @@
  },
  "std_15021138": {
   "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "checked": "2026-11-09",
   "columns": [
    "CNTER_NM",
    "CNTER_SE",
@@ -897,7 +897,7 @@
  },
  "std_15025449": {
   "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "checked": "2026-11-09",
   "columns": [
    "SHELTER_NM",
    "SHELTER_TYPE",
@@ -944,7 +944,7 @@
  },
  "std_15025450": {
   "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "checked": "2026-11-09",
   "columns": [
    "CTPRVN_NM",
    "SIGNGU_NM",
@@ -990,7 +990,7 @@
  },
  "std_15034531": {
   "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "checked": "2026-11-09",
   "columns": [
    "BSSH_NM",
    "BSSH_NM_CODE",
@@ -1036,7 +1036,7 @@
  },
  "std_15114146": {
   "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "checked": "2026-11-09",
   "columns": [
    "CTPV_NM",
    "SGG_NM",
@@ -1065,7 +1065,7 @@
  },
  "std_15129438": {
   "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "checked": "2026-11-09",
   "columns": [
    "CNTR_NM",
    "CTPV_NM",
@@ -1099,8 +1099,8 @@
   "total": 2570
  },
  "std_15129445": {
-  "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "applied": "2026-11-09",
+  "checked": "2026-11-09",
   "columns": [
    "INSTL_PLC_NM",
    "CTPV_NM",
@@ -1117,10 +1117,10 @@
    "INSTT_NM"
   ],
   "encoding": "json",
-  "fetched": "2026-11-03",
+  "fetched": "2026-11-09",
   "last_stop": null,
   "last_stop_why": null,
-  "modified": "2026-11-02",
+  "modified": "2026-11-05",
   "nulls": {
    "INSTL_PLC_NM": 0.0,
    "LCTN_ROAD_NM|LCTN_LOTNO_ADDR": 0.0
@@ -1130,8 +1130,8 @@
   "total": 8121
  },
  "std_15129447": {
-  "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "applied": "2026-11-09",
+  "checked": "2026-11-09",
   "columns": [
    "INSTL_PLC_NM",
    "CTPV_NM",
@@ -1152,10 +1152,10 @@
    "INSTT_NM"
   ],
   "encoding": "json",
-  "fetched": "2026-11-03",
+  "fetched": "2026-11-09",
   "last_stop": null,
   "last_stop_why": null,
-  "modified": "2026-11-02",
+  "modified": "2026-11-05",
   "nulls": {
    "INSTL_PLC_NM": 0.0,
    "LCTN_ROAD_NM|LCTN_LOTNO_ADDR": 0.0
@@ -1166,7 +1166,7 @@
  },
  "std_15139207": {
   "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "checked": "2026-11-09",
   "columns": [
    "INSTL_PLC_NM",
    "CTPV_NM",
@@ -1197,8 +1197,8 @@
   "total": 12191
  },
  "std_15139214": {
-  "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "applied": "2026-11-09",
+  "checked": "2026-11-09",
   "columns": [
    "MNG_NO",
    "INSTL_PLC_NM",
@@ -1216,10 +1216,10 @@
    "INSTT_NM"
   ],
   "encoding": "json",
-  "fetched": "2026-11-03",
+  "fetched": "2026-11-09",
   "last_stop": null,
   "last_stop_why": null,
-  "modified": "2026-11-02",
+  "modified": "2026-11-06",
   "nulls": {
    "INSTL_PLC_NM": 0.0,
    "LCTN_ROAD_NM_ADDR|LCTN_LOTNO_ADDR": 0.0
@@ -1230,7 +1230,7 @@
  },
  "std_15155673": {
   "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "checked": "2026-11-09",
   "columns": [
    "INSTL_PLC_NM",
    "DTL_PSTN_CN",
@@ -1263,7 +1263,7 @@
  },
  "std_15155678": {
   "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "checked": "2026-11-09",
   "columns": [
    "RTAREA_NM",
    "LCTN_ROAD_NM_ADDR",
@@ -1301,7 +1301,7 @@
  },
  "std_15155700": {
   "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "checked": "2026-11-09",
   "columns": [
    "PRGRM_NM",
    "PRGRM_CN",
@@ -1341,7 +1341,7 @@
  },
  "std_15155702": {
   "applied": "2026-11-03",
-  "checked": "2026-11-03",
+  "checked": "2026-11-09",
   "columns": [
    "INST_NM",
    "CTPV_NM",
